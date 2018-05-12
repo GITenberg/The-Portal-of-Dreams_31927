@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/l#a36873
     - http://www.english.eku.edu/services/kylit/buck.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31927#The-Portal-of-Dreams
 gutenberg_issued: '2010-04-09'
 gutenberg_type: Text
 identifiers:
